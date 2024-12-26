@@ -60,10 +60,11 @@ This is a simple game where the user has to guess a secret number between 1 and 
 
 ```
 Guess-The-Number-Game
+│      .gitignore
+│      .prettierrc
+│      app.js
 │      index.html
 │      style.css
-│      app.js
-│      .gitignore
 │      README.md
 │
 └─── Images -----> all images
