@@ -71,9 +71,5 @@ node_modules/
 .cache
 dist
 node_modules
-logo.png
-overview.png
-rightoverview.png
-wrongoverview.png
 package-lock.json
 package.json
