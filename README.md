@@ -64,9 +64,7 @@ Guess-The-Number-Game
 │      style.css
 │      app.js
 │
-└─── Images
-
-
+└─── Images -----> all images
 ```
 
 ## Installation
