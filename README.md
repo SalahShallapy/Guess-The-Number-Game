@@ -27,15 +27,15 @@ This is a simple game where the user has to guess a secret number between 1 and 
 
 ### Overview
 
-![header preview](./images/overview.png.png)
+![header preview](./images/overview.png)
 
 ### Wrong Guess Overview
 
-![header preview](./images//wrongoverview.png)
+![header preview](./images/wrongoverview.png)
 
 ### Right Guess Overview
 
-![header preview](./images//rightoverview.png)
+![header preview](./images/rightoverview.png)
 
 ## Features
 
