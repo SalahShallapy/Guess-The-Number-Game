@@ -63,6 +63,8 @@ Guess-The-Number-Game
 │      index.html
 │      style.css
 │      app.js
+│      .gitignore
+│      README.md
 │
 └─── Images -----> all images
 ```
