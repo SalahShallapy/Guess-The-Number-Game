@@ -67,7 +67,7 @@ Guess-The-Number-Game
 │      style.css
 │      README.md
 │
-└─── Images -----> all images
+└─── Images ------> all images
 ```
 
 ## Installation
