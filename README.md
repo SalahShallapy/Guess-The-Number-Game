@@ -12,7 +12,7 @@
     <img src="./images/logo.png" alt="Logo" height="75">
 </a>
 
-<h1>Mapty</h1>
+<h1>Guess The Number</h1>
 
   <p align="center">
     <a href="https://guessmynumber-e610f.web.app/">View Demo</a>
